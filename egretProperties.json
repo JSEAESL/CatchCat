@@ -30,9 +30,17 @@
     {
       "name": "game"
     },
+    // {
+		// 	"name": "dragonbones"
+		// },
     {
-      "name": "promise"
-    }
+      "name": "promise",
+      "path": "./promise"
+    },
+		{
+			"name": "puremvc",
+			"path": "ext/puremvc"
+		}
     
   ]
 }
