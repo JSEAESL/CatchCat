@@ -1,0 +1,36 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/ui/Widget.js",
+		"bin-debug/GameConfig.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/enum/PointEnum.js",
+		"bin-debug/event/CommonEvent.js",
+		"bin-debug/event/GlobalDispatcher.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/ui/Game/Cat.js",
+		"bin-debug/util/SceneUtil.js",
+		"bin-debug/ui/Game/UIGame.js",
+		"bin-debug/ui/Game/UIWayPoint.js",
+		"bin-debug/ui/Game/WayPointData.js",
+		"bin-debug/ui/login/UILogin.js",
+		"bin-debug/ui/result/ResultData.js",
+		"bin-debug/ui/result/UIResult.js",
+		"bin-debug/util/AStar.js",
+		"bin-debug/util/CustomMap.js",
+		"bin-debug/util/ResJsonUtils.js",
+		"bin-debug/util/ResUtils.js",
+		"bin-debug/ui/Game/GameModel.js"
+	]
+}
